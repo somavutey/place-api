@@ -1,0 +1,7 @@
+
+// get users
+// HTTP GET
+
+ 
+
+GET http://localhost:3000/users/paginate?page=1&limit=15
